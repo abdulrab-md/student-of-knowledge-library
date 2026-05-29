@@ -1,0 +1,260 @@
+
+ISLAMIC LIBRARY
+
+I want to achieve -
+
+Give that -
+
+1# ISLAMIC SCIENCES
+
+> Three categories of Islamic Sciences:
+    1. Objective
+    2. Instrumental
+    3. Supplementary
+
+> Each category has below sciences and sub-sciences:
+    1. Objective
+        a. Aqeedah
+            i. Tawheed
+            ii. Aqeedah
+            iii. 'Itiqaad
+            iv. Manhaj
+        b. Fiqh
+            i. Fiqh Madhhabb
+                - Hanafi Fiqh 
+                - Maaliki Fiqh
+                - Shaafi'i Fiqh
+                - Hanbali Fiqh
+                - Dhaahiri Fiqh
+            ii. Fiqh Ghayr Madhhabb
+            iii. Hadith al-Ahkaam
+            iv. Specific Topics of Fiqh (can have multiple sub-fields)
+        c. Hadith
+            i. Primary Collections
+            ii. Secondary Collections
+            iii. Arba'oon Collections
+            iv. Specific Topics of Hadith (can have multiple sub-fields)
+        d. Lughah al-Arabiyyah
+            i. Nahw
+            ii. Sarf
+            iii. Balaaghah
+            iv. Qaamoos
+        e. Seerah an-Nabi
+            i. Mukhtasar Seerah an-Nabi
+            ii. Waasi' Seerah an-Nabi
+            iii. Specific Topics of Seerah (can have multiple sub-fields)
+        f. Tafseer
+            i. Mukhtasar Tafseer
+            ii. Waasi' Tafseer
+            iii. Specific Topics of Tafseer (can have multiple sub-fields)
+            iv. Translations
+    2. Instrumental
+        a. Uloom al-Aqeedah
+            i. Uloom al-Firaq (can have multiple sub-fields)
+            ii. Uloom al-Ad'iyaan (can have multiple sub-fields)
+            iii. Atheism & Other Ideologies
+            iv. Specific Topics of Aqeedah (can have multiple sub-fields)
+        b. Uloom al-Fiqh
+            i. Usool al-Fiqh
+                - Hanafi Usool al-Fiqh 
+                - Maaliki Usool al-Fiqh
+                - Shaafi'i Usool al-Fiqh
+                - Hanbali Usool al-Fiqh
+                - Dhaahiri Usool al-Fiqh
+                - Ghayr Madhaahib Usool al-Fiqh
+            ii. Qawaa'idh al-Fiqh
+                - Hanafi Qawaa'idh al-Fiqh 
+                - Maaliki Qawaa'idh al-Fiqh
+                - Shaafi'i Qawaa'idh al-Fiqh
+                - Hanbali Qawaa'idh al-Fiqh
+                - Dhaahiri Qawaa'idh al-Fiqh
+                - Ghayr Madhaahib Qawaa'idh al-Fiqh
+            iii. Madhaahib al-Fiqh
+                - Hanafi 
+                - Maaliki
+                - Shaafi'i
+                - Hanbali
+                - Dhaahiri
+        c. Uloom al-Hadith
+            i. Ahmiyat as-Sunnah
+            ii. Mustalah al-Hadith
+            iii. Usool al-Hadith
+            iv. 'Ilm ar-Rijaal
+            v. Jarh wat-Ta'dheel
+        d. Uloom al-Qur'aan
+            i. Ahmiyat al-Qur'aan
+            ii. Tajweed
+            iii. Specifc Topics on Qur'aan (can have multiple sub-fields)
+        e. Uloom as-Seerah
+            i. Shamaail an-Nabi
+            ii. Khasaais an-Nabi
+            iii. Mu'jizaat an-Nabi
+            iv. Specifc Topics on Nabi (can have multiple sub-fields)
+            v. Seerah al-Ambiya war-Rusul
+            vi. Seerah as-Sahaabah was-Sahaabiyyaat
+            vii. Seerah at-Taa'bioon wa Atba' at-Taabi'oon
+            viii. Seerah A'immah al-Muslimeen
+            ix. Taareekh al-Islaamiyyah
+            x. Specifc Topics in Taareekh (can have multiple sub-fields)
+        f. Uloom at-Tafseer
+            i. Usool at-Tafseer
+            ii. Asbaab an-Nuzool
+            x. Specifc Topics on Tafseer (can have multiple sub-fields)
+    3. Supplementary
+        a. Ta'leem
+            i. Talab al-'Ilm
+            ii. ad-Dhikr wad-Du'aa
+            iii. al-Ash'hoor al-Islaamiyyah
+        b. Tarbiyah
+            i. Aadaab
+            ii. Huqooq
+            iii. Amaal al-Qalb
+            iv. Mawaa'idh
+        c. Tazkiyah
+            i. Ruqyah
+            ii. Tazkiyah an-Nafs
+            iii. Zuhd
+            iv. Tibb
+        d. Raqaaeq
+            i. Dunya
+            ii. Aakhirah
+            iii. Zawaajir
+            iv. az-Zunoob wal-Ma'aasi
+        e. Da'wah
+            i. ad-Da'wah wad-Da'yee
+            ii. Manhajiyyah fid-Da'wah
+            iii. Naseehah
+            iv. Specific Topics in Da'wah (can have multiple sub-fields)
+
+> Above categories and sciences are fixed, while more sub-sciences might be added in future
+> As mentioned, Specifc Topics sub-science might have multiple fields
+
+2# ISLAMIC BOOKS
+
+> Each book can be of 2 categories: 
+    1. Text
+    2. Poetry
+
+> Each category book can be of 2 types:
+    1. Original
+    2. Explanation (NOTE: A original book can have multiple explanation books)
+
+> Each book can be of 3 levels:
+    1. Beginner
+    2. Intermediate
+    3. Advanced
+
+> Each book has GDrive PDF links
+
+> Each book PDF can be in 3 languages:
+    1. English
+    2. Urdu
+    3. Arabic
+
+> Each book PDF can be available in multiple print editions in each language
+
+3# ISLAMIC YOUTUBE BOOK EXPLANATIONS
+
+> Each book can be explained by multiple teachers
+
+> A single teacher can explain the same book multiple times
+
+> Each book has YouTube videos. YouTube links can be of 2 types:
+    1. Single link - either a single video or a playlist
+    2. Muliple links - split into multiple videos without a playlist
+
+> Each YouTube video could be in 3 languages:
+    1. English
+    2. Urdu
+    3. Arabic
+
+4# IDEA OF A BOOK PAGE ({book}.md file)
+
+> Islamic Science Details
+    - Category (e.g., Objective)
+    - Science (e.g., Aqeedah)
+    - Sub-Science (e.g., Tawheed)
+    - Field (if applicable)
+    - Level (Beginner/Intermediate/Advanced)
+
+> Original Book Details
+    - Name
+    - Author
+    - Book Type (Text/Poetry)
+    - PDF links:
+        - language #1
+            - print #1
+            - print #2
+            .
+            .
+            .
+        - language #2
+        .
+        .
+        .
+    - YouTube links:
+        - Teacher #1 + language
+            - link(s) explanation #1
+            - link(s) explanation #2
+            .
+            .
+            .
+        - Teacher #2 + language 
+        .
+        .
+        .
+
+> Explanation Book 1 details (if any)
+    - Name
+    - Author 
+    - Book Type (Text/Poetry)
+    - PDF links:
+        - language #1
+            - print #1
+            - print #2
+            .
+            .
+            .
+        - language #2
+        .
+        .
+        .
+    - YouTube links:
+        - Teacher #1 + language
+            - link(s) explanation #1
+            - link(s) explanation #2
+            .
+            .
+            .
+        - Teacher #2 + language 
+        .
+        .
+        .
+
+> Explanation Book 2 details (if any)
+.
+.
+.
+
+
+5# IDEA OF REPO FOLDER STRUCTURE
+
+./root
+    /Books
+        /{Category}
+            /{Science}
+                /{Sub-Science}
+                    /{Sub-Field (if-any)}
+                        /{book}.md
+
+
+EXAMPLE:
+
+./root
+    /Books
+        /Objective 
+            /Aqeedah
+                /Tawheed
+                    /Kitaab at-Tahweed.md
+        /Instrumental
+        /Supplementary
