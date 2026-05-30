@@ -1,6 +1,6 @@
 # Books content index
 
-This file lists every folder created under `Library/`. Click a link to open the folder in your editor.
+This file lists every folder created under `Books/`. Click a link to open the folder in your editor.
 
 The library is divided into three major categories:
 

@@ -28,15 +28,37 @@ The template includes:
 * Link formatting rules
 * Versioning conventions
 
-Use the book title as the filename.
+### Book Naming Convention
 
-Examples:
+All book files must follow the format:
 
 ```text
-Kitaab at-Tawheed.md
-Usool ath-Thalaathah.md
-Al-Waraqaat.md
+{T/P}-{L1-L5}-B{NN}_{Placeholder}.md
 ```
+
+**Type:** `T` (Text), `P` (Poetry)
+
+**Level:** `L1` (Essentials), `L2` (Fundamentals), `L3` (Intermediate), `L4` (Advanced), `L5` (Expert)
+
+**Index:** `NN` = Two-digit index number (`01`, `02`, `03`, ...)
+
+Examples
+
+```text
+T-L1-B01_Kitaab_at-Tawheed_Muhammad_ibn_Abd_al-Wahhab.md
+T-L1-B02_Usool_ath-Thalaathah_Muhammad_ibn_Abd_al-Wahhab.md
+P-L3-B01_Alfiyyah_ibn_Malik.md
+T-L3-B05_Al-Waraqaat_Al-Juwayni.md
+T-L4-B01_Sahih_al-Bukhari.md
+```
+
+### Naming Rules
+
+* Use underscores (`_`) instead of spaces.
+* Placeholder should have Book name, and can have additional Author name optionally.
+* Preserve well-known transliterations where possible.
+* Use a two-digit index number.
+* Use the `.md` extension.
 
 ---
 
