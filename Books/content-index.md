@@ -1,108 +1,128 @@
-# Books content index
+# 📚 Books Library Index
 
-This file lists every folder created under `Books/`. Click a link to open the folder in your editor.
-
-The library is divided into three major categories:
-
-## 1. Objective Sciences
-
-Science | Sub-Science | Folder
---- | --- | ---
-Aqeedah | Tawheed | [Objective/Aqeedah/Tawheed](Objective/Aqeedah/Tawheed)
-Aqeedah | Aqeedah | [Objective/Aqeedah/Aqeedah](Objective/Aqeedah/Aqeedah)
-Aqeedah | 'Itiqaad | [Objective/Aqeedah/'Itiqaad](Objective/Aqeedah/'Itiqaad)
-Aqeedah | Manhaj | [Objective/Aqeedah/Manhaj](Objective/Aqeedah/Manhaj)
-Fiqh | Hanafi Fiqh | [Objective/Fiqh/Fiqh Madhhabb/Hanafi Fiqh](Objective/Fiqh/Fiqh%20Madhhabb/Hanafi%20Fiqh)
-Fiqh | Maaliki Fiqh | [Objective/Fiqh/Fiqh Madhhabb/Maaliki Fiqh](Objective/Fiqh/Fiqh%20Madhhabb/Maaliki%20Fiqh)
-Fiqh | Shaafi'i Fiqh | [Objective/Fiqh/Fiqh Madhhabb/Shaafi'i Fiqh](Objective/Fiqh/Fiqh%20Madhhabb/Shaafi'i%20Fiqh)
-Fiqh | Hanbali Fiqh | [Objective/Fiqh/Fiqh Madhhabb/Hanbali Fiqh](Objective/Fiqh/Fiqh%20Madhhabb/Hanbali%20Fiqh)
-Fiqh | Dhaahiri Fiqh | [Objective/Fiqh/Fiqh Madhhabb/Dhaahiri Fiqh](Objective/Fiqh/Fiqh%20Madhhabb/Dhaahiri%20Fiqh)
-Fiqh | Fiqh Ghayr Madhhabb | [Objective/Fiqh/Fiqh Ghayr Madhhabb](Objective/Fiqh/Fiqh%20Ghayr%20Madhhabb)
-Fiqh | Hadith al-Ahkaam | [Objective/Fiqh/Hadith al-Ahkaam](Objective/Fiqh/Hadith%20al-Ahkaam)
-Fiqh | Specific Topics of Fiqh | [Objective/Fiqh/Specific Topics of Fiqh](Objective/Fiqh/Specific%20Topics%20of%20Fiqh)
-Hadith | Primary Collections | [Objective/Hadith/Primary Collections](Objective/Hadith/Primary%20Collections)
-Hadith | Secondary Collections | [Objective/Hadith/Secondary Collections](Objective/Hadith/Secondary%20Collections)
-Hadith | Arba'oon Collections | [Objective/Hadith/Arba'oon Collections](Objective/Hadith/Arba'oon%20Collections)
-Hadith | Specific Topics of Hadith | [Objective/Hadith/Specific Topics of Hadith](Objective/Hadith/Specific%20Topics%20of%20Hadith)
-Lughah al-Arabiyyah | Nahw | [Objective/Lughah al-Arabiyyah/Nahw](Objective/Lughah%20al-Arabiyyah/Nahw)
-Lughah al-Arabiyyah | Sarf | [Objective/Lughah al-Arabiyyah/Sarf](Objective/Lughah%20al-Arabiyyah/Sarf)
-Lughah al-Arabiyyah | Balaaghah | [Objective/Lughah al-Arabiyyah/Balaaghah](Objective/Lughah%20al-Arabiyyah/Balaaghah)
-Lughah al-Arabiyyah | Qaamoos | [Objective/Lughah al-Arabiyyah/Qaamoos](Objective/Lughah%20al-Arabiyyah/Qaamoos)
-Seerah an-Nabi | Mukhtasar Seerah an-Nabi | [Objective/Seerah an-Nabi/Mukhtasar Seerah an-Nabi](Objective/Seerah%20an-Nabi/Mukhtasar%20Seerah%20an-Nabi)
-Seerah an-Nabi | Waasi' Seerah an-Nabi | [Objective/Seerah an-Nabi/Waasi' Seerah an-Nabi](Objective/Seerah%20an-Nabi/Waasi'%20Seerah%20an-Nabi)
-Seerah an-Nabi | Specific Topics of Seerah | [Objective/Seerah an-Nabi/Specific Topics of Seerah](Objective/Seerah%20an-Nabi/Specific%20Topics%20of%20Seerah)
-Tafseer | Mukhtasar Tafseer | [Objective/Tafseer/Mukhtasar Tafseer](Objective/Tafseer/Mukhtasar%20Tafseer)
-Tafseer | Waasi' Tafseer | [Objective/Tafseer/Waasi' Tafseer](Objective/Tafseer/Waasi'%20Tafseer)
-Tafseer | Specific Topics of Tafseer | [Objective/Tafseer/Specific Topics of Tafseer](Objective/Tafseer/Specific%20Topics%20of%20Tafseer)
-Tafseer | Translations | [Objective/Tafseer/Translations](Objective/Tafseer/Translations)
-
-## 2. Instrumental Sciences
-
-Science | Sub-Science | Folder
---- | --- | ---
-Uloom al-Aqeedah | Uloom al-Firaq | [Instrumental/Uloom al-Aqeedah/Uloom al-Firaq](Instrumental/Uloom%20al-Aqeedah/Uloom%20al-Firaq)
-Uloom al-Aqeedah | Uloom al-Ad'iyaan | [Instrumental/Uloom al-Aqeedah/Uloom al-Ad'iyaan](Instrumental/Uloom%20al-Aqeedah/Uloom%20al-Ad'iyaan)
-Uloom al-Aqeedah | Atheism & Other Ideologies | [Instrumental/Uloom al-Aqeedah/Atheism & Other Ideologies](Instrumental/Uloom%20al-Aqeedah/Atheism%20&%20Other%20Ideologies)
-Uloom al-Aqeedah | Specific Topics of Aqeedah | [Instrumental/Uloom al-Aqeedah/Specific Topics of Aqeedah](Instrumental/Uloom%20al-Aqeedah/Specific%20Topics%20of%20Aqeedah)
-Uloom al-Fiqh | Hanafi Usool al-Fiqh | [Instrumental/Uloom al-Fiqh/Usool al-Fiqh/Hanafi Usool al-Fiqh](Instrumental/Uloom%20al-Fiqh/Usool%20al-Fiqh/Hanafi%20Usool%20al-Fiqh)
-Uloom al-Fiqh | Maaliki Usool al-Fiqh | [Instrumental/Uloom al-Fiqh/Usool al-Fiqh/Maaliki Usool al-Fiqh](Instrumental/Uloom%20al-Fiqh/Usool%20al-Fiqh/Maaliki%20Usool%20al-Fiqh)
-Uloom al-Fiqh | Shaafi'i Usool al-Fiqh | [Instrumental/Uloom al-Fiqh/Usool al-Fiqh/Shaafi'i Usool al-Fiqh](Instrumental/Uloom%20al-Fiqh/Usool%20al-Fiqh/Shaafi'i%20Usool%20al-Fiqh)
-Uloom al-Fiqh | Hanbali Usool al-Fiqh | [Instrumental/Uloom al-Fiqh/Usool al-Fiqh/Hanbali Usool al-Fiqh](Instrumental/Uloom%20al-Fiqh/Usool%20al-Fiqh/Hanbali%20Usool%20al-Fiqh)
-Uloom al-Fiqh | Dhaahiri Usool al-Fiqh | [Instrumental/Uloom al-Fiqh/Usool al-Fiqh/Dhaahiri Usool al-Fiqh](Instrumental/Uloom%20al-Fiqh/Usool%20al-Fiqh/Dhaahiri%20Usool%20al-Fiqh)
-Uloom al-Fiqh | Ghayr Madhaahib Usool al-Fiqh | [Instrumental/Uloom al-Fiqh/Usool al-Fiqh/Ghayr Madhaahib Usool al-Fiqh](Instrumental/Uloom%20al-Fiqh/Usool%20al-Fiqh/Ghayr%20Madhaahib%20Usool%20al-Fiqh)
-Uloom al-Fiqh | Hanafi Qawaa'idh al-Fiqh | [Instrumental/Uloom al-Fiqh/Qawaa'idh al-Fiqh/Hanafi Qawaa'idh al-Fiqh](Instrumental/Uloom%20al-Fiqh/Qawaa'idh%20al-Fiqh/Hanafi%20Qawaa'idh%20al-Fiqh)
-Uloom al-Fiqh | Maaliki Qawaa'idh al-Fiqh | [Instrumental/Uloom al-Fiqh/Qawaa'idh al-Fiqh/Maaliki Qawaa'idh al-Fiqh](Instrumental/Uloom%20al-Fiqh/Qawaa'idh%20al-Fiqh/Maaliki%20Qawaa'idh%20al-Fiqh)
-Uloom al-Fiqh | Shaafi'i Qawaa'idh al-Fiqh | [Instrumental/Uloom al-Fiqh/Qawaa'idh al-Fiqh/Shaafi'i Qawaa'idh al-Fiqh](Instrumental/Uloom%20al-Fiqh/Qawaa'idh%20al-Fiqh/Shaafi'i%20Qawaa'idh%20al-Fiqh)
-Uloom al-Fiqh | Hanbali Qawaa'idh al-Fiqh | [Instrumental/Uloom al-Fiqh/Qawaa'idh al-Fiqh/Hanbali Qawaa'idh al-Fiqh](Instrumental/Uloom%20al-Fiqh/Qawaa'idh%20al-Fiqh/Hanbali%20Qawaa'idh%20al-Fiqh)
-Uloom al-Fiqh | Dhaahiri Qawaa'idh al-Fiqh | [Instrumental/Uloom al-Fiqh/Qawaa'idh al-Fiqh/Dhaahiri Qawaa'idh al-Fiqh](Instrumental/Uloom%20al-Fiqh/Qawaa'idh%20al-Fiqh/Dhaahiri%20Qawaa'idh%20al-Fiqh)
-Uloom al-Fiqh | Ghayr Madhaahib Qawaa'idh al-Fiqh | [Instrumental/Uloom al-Fiqh/Qawaa'idh al-Fiqh/Ghayr Madhaahib Qawaa'idh al-Fiqh](Instrumental/Uloom%20al-Fiqh/Qawaa'idh%20al-Fiqh/Ghayr%20Madhaahib%20Qawaa'idh%20al-Fiqh)
-Uloom al-Fiqh | Hanafi Madhhabb | [Instrumental/Uloom al-Fiqh/Madhaahib al-Fiqh/Hanafi Madhhabb](Instrumental/Uloom%20al-Fiqh/Madhaahib%20al-Fiqh/Hanafi%20Madhhabb)
-Uloom al-Fiqh | Maaliki Madhhabb | [Instrumental/Uloom al-Fiqh/Madhaahib al-Fiqh/Maaliki Madhhabb](Instrumental/Uloom%20al-Fiqh/Madhaahib%20al-Fiqh/Maaliki%20Madhhabb)
-Uloom al-Fiqh | Shaafi'i Madhhabb | [Instrumental/Uloom al-Fiqh/Madhaahib al-Fiqh/Shaafi'i Madhhabb](Instrumental/Uloom%20al-Fiqh/Madhaahib%20al-Fiqh/Shaafi'i%20Madhhabb)
-Uloom al-Fiqh | Hanbali Madhhabb | [Instrumental/Uloom al-Fiqh/Madhaahib al-Fiqh/Hanbali Madhhabb](Instrumental/Uloom%20al-Fiqh/Madhaahib%20al-Fiqh/Hanbali%20Madhhabb)
-Uloom al-Fiqh | Dhaahiri Madhhabb | [Instrumental/Uloom al-Fiqh/Madhaahib al-Fiqh/Dhaahiri Madhhabb](Instrumental/Uloom%20al-Fiqh/Madhaahib%20al-Fiqh/Dhaahiri%20Madhhabb)
-Uloom al-Hadith | Ahmiyat as-Sunnah | [Instrumental/Uloom al-Hadith/Ahmiyat as-Sunnah](Instrumental/Uloom%20al-Hadith/Ahmiyat%20as-Sunnah)
-Uloom al-Hadith | Mustalah al-Hadith | [Instrumental/Uloom al-Hadith/Mustalah al-Hadith](Instrumental/Uloom%20al-Hadith/Mustalah%20al-Hadith)
-Uloom al-Hadith | Usool al-Hadith | [Instrumental/Uloom al-Hadith/Usool al-Hadith](Instrumental/Uloom%20al-Hadith/Usool%20al-Hadith)
-Uloom al-Hadith | 'Ilm ar-Rijaal | [Instrumental/Uloom al-Hadith/'Ilm ar-Rijaal](Instrumental/Uloom%20al-Hadith/'Ilm%20ar-Rijaal)
-Uloom al-Hadith | Jarh wat-Ta'dheel | [Instrumental/Uloom al-Hadith/Jarh wat-Ta'dheel](Instrumental/Uloom%20al-Hadith/Jarh%20wat-Ta'dheel)
-Uloom al-Qur'aan | Ahmiyat al-Qur'aan | [Instrumental/Uloom al-Qur'aan/Ahmiyat al-Qur'aan](Instrumental/Uloom%20al-Qur'aan/Ahmiyat%20al-Qur'aan)
-Uloom al-Qur'aan | Tajweed | [Instrumental/Uloom al-Qur'aan/Tajweed](Instrumental/Uloom%20al-Qur'aan/Tajweed)
-Uloom al-Qur'aan | Specific Topics on Qur'aan | [Instrumental/Uloom al-Qur'aan/Specific Topics on Qur'aan](Instrumental/Uloom%20al-Qur'aan/Specific%20Topics%20on%20Qur'aan)
-Uloom as-Seerah | Shamaail an-Nabi | [Instrumental/Uloom as-Seerah/Shamaail an-Nabi](Instrumental/Uloom%20as-Seerah/Shamaail%20an-Nabi)
-Uloom as-Seerah | Khasaais an-Nabi | [Instrumental/Uloom as-Seerah/Khasaais an-Nabi](Instrumental/Uloom%20as-Seerah/Khasaais%20an-Nabi)
-Uloom as-Seerah | Mu'jizaat an-Nabi | [Instrumental/Uloom as-Seerah/Mu'jizaat an-Nabi](Instrumental/Uloom%20as-Seerah/Mu'jizaat%20an-Nabi)
-Uloom as-Seerah | Specific Topics on Nabi | [Instrumental/Uloom as-Seerah/Specific Topics on Nabi](Instrumental/Uloom%20as-Seerah/Specific%20Topics%20on%20Nabi)
-Uloom as-Seerah | Seerah al-Ambiya war-Rusul | [Instrumental/Uloom as-Seerah/Seerah al-Ambiya war-Rusul](Instrumental/Uloom%20as-Seerah/Seerah%20al-Ambiya%20war-Rusul)
-Uloom as-Seerah | Seerah as-Sahaabah was-Sahaabiyyaat | [Instrumental/Uloom as-Seerah/Seerah as-Sahaabah was-Sahaabiyyaat](Instrumental/Uloom%20as-Seerah/Seerah%20as-Sahaabah%20was-Sahaabiyyaat)
-Uloom as-Seerah | Seerah at-Taa'bioon wa Atba' at-Taabi'oon | [Instrumental/Uloom as-Seerah/Seerah at-Taa'bioon wa Atba' at-Taabi'oon](Instrumental/Uloom%20as-Seerah/Seerah%20at-Taa'bioon%20wa%20Atba'%20at-Taabi'oon)
-Uloom as-Seerah | Seerah A'immah al-Muslimeen | [Instrumental/Uloom as-Seerah/Seerah A'immah al-Muslimeen](Instrumental/Uloom%20as-Seerah/Seerah%20A'immah%20al-Muslimeen)
-Uloom as-Seerah | Taareekh al-Islaamiyyah | [Instrumental/Uloom as-Seerah/Taareekh al-Islaamiyyah](Instrumental/Uloom%20as-Seerah/Taareekh%20al-Islaamiyyah)
-Uloom as-Seerah | Specific Topics in Taareekh | [Instrumental/Uloom as-Seerah/Specific Topics in Taareekh](Instrumental/Uloom%20as-Seerah/Specific%20Topics%20in%20Taareekh)
-Uloom at-Tafseer | Usool at-Tafseer | [Instrumental/Uloom at-Tafseer/Usool at-Tafseer](Instrumental/Uloom%20at-Tafseer/Usool%20at-Tafseer)
-Uloom at-Tafseer | Asbaab an-Nuzool | [Instrumental/Uloom at-Tafseer/Asbaab an-Nuzool](Instrumental/Uloom%20at-Tafseer/Asbaab%20an-Nuzool)
-Uloom at-Tafseer | Specific Topics on Tafseer | [Instrumental/Uloom at-Tafseer/Specific Topics on Tafseer](Instrumental/Uloom%20at-Tafseer/Specific%20Topics%20on%20Tafseer)
-
-## 3. Supplementary Sciences
-
-Science | Sub-Science | Folder
---- | --- | ---
-Ta'leem | Talab al-'Ilm | [Supplementary/Ta'leem/Talab al-'Ilm](Supplementary/Ta'leem/Talab%20al-'Ilm)
-Ta'leem | ad-Dhikr wad-Du'aa | [Supplementary/Ta'leem/ad-Dhikr wad-Du'aa](Supplementary/Ta'leem/ad-Dhikr%20wad-Du'aa)
-Ta'leem | al-Ash'hoor al-Islaamiyyah | [Supplementary/Ta'leem/al-Ash'hoor al-Islaamiyyah](Supplementary/Ta'leem/al-Ash'hoor%20al-Islaamiyyah)
-Tarbiyah | Aadaab | [Supplementary/Tarbiyah/Aadaab](Supplementary/Tarbiyah/Aadaab)
-Tarbiyah | Huqooq | [Supplementary/Tarbiyah/Huqooq](Supplementary/Tarbiyah/Huqooq)
-Tarbiyah | Amaal al-Qalb | [Supplementary/Tarbiyah/Amaal al-Qalb](Supplementary/Tarbiyah/Amaal%20al-Qalb)
-Tarbiyah | Mawaa'idh | [Supplementary/Tarbiyah/Mawaa'idh](Supplementary/Tarbiyah/Mawaa'idh)
-Tazkiyah | Ruqyah | [Supplementary/Tazkiyah/Ruqyah](Supplementary/Tazkiyah/Ruqyah)
-Tazkiyah | Tazkiyah an-Nafs | [Supplementary/Tazkiyah/Tazkiyah an-Nafs](Supplementary/Tazkiyah/Tazkiyah%20an-Nafs)
-Tazkiyah | Zuhd | [Supplementary/Tazkiyah/Zuhd](Supplementary/Tazkiyah/Zuhd)
-Tazkiyah | Tibb | [Supplementary/Tazkiyah/Tibb](Supplementary/Tazkiyah/Tibb)
-Raqaaeq | Dunya | [Supplementary/Raqaaeq/Dunya](Supplementary/Raqaaeq/Dunya)
-Raqaaeq | Aakhirah | [Supplementary/Raqaaeq/Aakhirah](Supplementary/Raqaaeq/Aakhirah)
-Raqaaeq | Zawaajir | [Supplementary/Raqaaeq/Zawaajir](Supplementary/Raqaaeq/Zawaajir)
-Raqaaeq | az-Zunoob wal-Ma'aasi | [Supplementary/Raqaaeq/az-Zunoob wal-Ma'aasi](Supplementary/Raqaaeq/az-Zunoob%20wal-Ma'aasi)
-Dawah | ad-Da'wah wad-Da'yee | [Supplementary/Dawah/ad-Da'wah wad-Da'yee](Supplementary/Dawah/ad-Da'wah%20wad-Da'yee)
-Dawah | Manhajiyyah fid-Da'wah | [Supplementary/Dawah/Manhajiyyah fid-Da'wah](Supplementary/Dawah/Manhajiyyah%20fid-Da'wah)
-Dawah | Naseehah | [Supplementary/Dawah/Naseehah](Supplementary/Dawah/Naseehah)
-Dawah | Specific Topics in Dawah | [Supplementary/Dawah/Specific Topics in Dawah](Supplementary/Dawah/Specific%20Topics%20in%20Dawah)
+Books/
+├── 🗃️ Objective Sciences
+│   ├── 🗂️ Aqeedah
+│   │   ├── 📂 [Tawheed](Objective/Aqeedah/Tawheed)
+│   │   ├── 📂 [Aqeedah](Objective/Aqeedah/Aqeedah)
+│   │   ├── 📂 ['Itiqaad](Objective/Aqeedah/'Itiqaad)
+│   │   └── 📂 [Manhaj](Objective/Aqeedah/Manhaj)
+│   │
+│   ├── 🗂️ Fiqh
+│   │   ├── 📂 [Hanafi](Objective/Fiqh/Fiqh%20Madhhabb/Hanafi%20Fiqh)
+│   │   ├── 📂 [Maaliki](Objective/Fiqh/Fiqh%20Madhhabb/Maaliki%20Fiqh)
+│   │   ├── 📂 [Shaafi'i](Objective/Fiqh/Fiqh%20Madhhabb/Shaafi'i%20Fiqh)
+│   │   ├── 📂 [Hanbali](Objective/Fiqh/Fiqh%20Madhhabb/Hanbali%20Fiqh)
+│   │   ├── 📂 [Dhaahiri](Objective/Fiqh/Fiqh%20Madhhabb/Dhaahiri%20Fiqh)
+│   │   ├── 📂 [Ghayr Madhhabb](Objective/Fiqh/Fiqh%20Ghayr%20Madhhabb)
+│   │   ├── 📂 [Hadith al-Ahkaam](Objective/Fiqh/Hadith%20al-Ahkaam)
+│   │   └── 📂 [Specific Topics of Fiqh](Objective/Fiqh/Specific%20Topics%20of%20Fiqh)
+│   │
+│   ├── 🗂️ Hadith
+│   │   ├── 📂 [Primary Collections](Objective/Hadith/Primary%20Collections)
+│   │   ├── 📂 [Secondary Collections](Objective/Hadith/Secondary%20Collections)
+│   │   ├── 📂 [Arba'oon Collections](Objective/Hadith/Arba'oon%20Collections)
+│   │   └── 📂 [Specific Topics of Hadith](Objective/Hadith/Specific%20Topics%20of%20Hadith)
+│   │
+│   ├── 🗂️ Lughah al-Arabiyyah
+│   │   ├── 📂 [Nahw](Objective/Lughah%20al-Arabiyyah/Nahw)
+│   │   ├── 📂 [Sarf](Objective/Lughah%20al-Arabiyyah/Sarf)
+│   │   ├── 📂 [Balaaghah](Objective/Lughah%20al-Arabiyyah/Balaaghah)
+│   │   └── 📂 [Qaamoos](Objective/Lughah%20al-Arabiyyah/Qaamoos)
+│   │
+│   ├── 🗂️ Seerah an-Nabi
+│   │   ├── 📂 [Mukhtasar Seerah](Objective/Seerah%20an-Nabi/Mukhtasar%20Seerah%20an-Nabi)
+│   │   ├── 📂 [Waasi' Seerah](Objective/Seerah%20an-Nabi/Waasi'%20Seerah%20an-Nabi)
+│   │   └── 📂 [Specific Topics](Objective/Seerah%20an-Nabi/Specific%20Topics%20of%20Seerah)
+│   │
+│   └── 🗂️ Tafseer
+│       ├── 📂 [Mukhtasar Tafseer](Objective/Tafseer/Mukhtasar%20Tafseer)
+│       ├── 📂 [Waasi' Tafseer](Objective/Tafseer/Waasi'%20Tafseer)
+│       ├── 📂 [Specific Topics](Objective/Tafseer/Specific%20Topics%20of%20Tafseer)
+│       └── 📂 [Translations](Objective/Tafseer/Translations)
+│
+├── 🗃️ Instrumental Sciences
+│   ├── 🗂️ Uloom al-Aqeedah
+│   │   ├── 📂 [Uloom al-Firaq](Instrumental/Uloom%20al-Aqeedah/Uloom%20al-Firaq)
+│   │   ├── 📂 [Uloom al-Ad'iyaan](Instrumental/Uloom%20al-Aqeedah/Uloom%20al-Ad'iyaan)
+│   │   ├── 📂 [Atheism & Ideologies](Instrumental/Uloom%20al-Aqeedah/Atheism%20&%20Other%20Ideologies)
+│   │   └── 📂 [Specific Topics](Instrumental/Uloom%20al-Aqeedah/Specific%20Topics%20of%20Aqeedah)
+│   │
+│   ├── 🗂️ Uloom al-Fiqh
+│   │   ├── 🗂️ Usul al-Fiqh
+│   │   │   ├── 📂 [Hanafi](Instrumental/Uloom%20al-Fiqh/Usool%20al-Fiqh/Hanafi%20Usool%20al-Fiqh)
+│   │   │   ├── 📂 [Maaliki](Instrumental/Uloom%20al-Fiqh/Usool%20al-Fiqh/Maaliki%20Usool%20al-Fiqh)
+│   │   │   ├── 📂 [Shaafi'i](Instrumental/Uloom%20al-Fiqh/Usool%20al-Fiqh/Shaafi'i%20Usool%20al-Fiqh)
+│   │   │   ├── 📂 [Hanbali](Instrumental/Uloom%20al-Fiqh/Usool%20al-Fiqh/Hanbali%20Usool%20al-Fiqh)
+│   │   │   ├── 📂 [Dhaahiri](Instrumental/Uloom%20al-Fiqh/Usool%20al-Fiqh/Dhaahiri%20Usool%20al-Fiqh)
+│   │   │   └── 📂 [Ghayr Madhhabs](Instrumental/Uloom%20al-Fiqh/Usool%20al-Fiqh/Ghayr%20Madhaahib%20Usool%20al-Fiqh)
+│   │   │
+│   │   ├── 🗂️ Qawaa'id al-Fiqh
+│   │   │   ├── 📂 [Hanafi](Instrumental/Uloom%20al-Fiqh/Qawaa'idh%20al-Fiqh/Hanafi%20Qawaa'idh%20al-Fiqh)
+│   │   │   ├── 📂 [Maaliki](Instrumental/Uloom%20al-Fiqh/Qawaa'idh%20al-Fiqh/Maaliki%20Qawaa'idh%20al-Fiqh)
+│   │   │   ├── 📂 [Shaafi'i](Instrumental/Uloom%20al-Fiqh/Qawaa'idh%20al-Fiqh/Shaafi'i%20Qawaa'idh%20al-Fiqh)
+│   │   │   ├── 📂 [Hanbali](Instrumental/Uloom%20al-Fiqh/Qawaa'idh%20al-Fiqh/Hanbali%20Qawaa'idh%20al-Fiqh)
+│   │   │   ├── 📂 [Dhaahiri](Instrumental/Uloom%20al-Fiqh/Qawaa'idh%20al-Fiqh/Dhaahiri%20Qawaa'idh%20al-Fiqh)
+│   │   │   └── 📂 [Ghayr Madhhabs](Instrumental/Uloom%20al-Fiqh/Qawaa'idh%20al-Fiqh/Ghayr%20Madhaahib%20Qawaa'idh%20al-Fiqh)
+│   │   │
+│   │   └── 🗂️ Madhhabs
+│   │       ├── 📂 [Hanafi](Instrumental/Uloom%20al-Fiqh/Madhaahib%20al-Fiqh/Hanafi%20Madhhabb)
+│   │       ├── 📂 [Maaliki](Instrumental/Uloom%20al-Fiqh/Madhaahib%20al-Fiqh/Maaliki%20Madhhabb)
+│   │       ├── 📂 [Shaafi'i](Instrumental/Uloom%20al-Fiqh/Madhaahib%20al-Fiqh/Shaafi'i%20Madhhabb)
+│   │       ├── 📂 [Hanbali](Instrumental/Uloom%20al-Fiqh/Madhaahib%20al-Fiqh/Hanbali%20Madhhabb)
+│   │       └── 📂 [Dhaahiri](Instrumental/Uloom%20al-Fiqh/Madhaahib%20al-Fiqh/Dhaahiri%20Madhhabb)
+│   │
+│   ├── 🗂️ Uloom al-Hadith
+│   │   ├── 📂 [Ahmiyat as-Sunnah](Instrumental/Uloom%20al-Hadith/Ahmiyat%20as-Sunnah)
+│   │   ├── 📂 [Mustalah al-Hadith](Instrumental/Uloom%20al-Hadith/Mustalah%20al-Hadith)
+│   │   ├── 📂 [Usool al-Hadith](Instrumental/Uloom%20al-Hadith/Usool%20al-Hadith)
+│   │   ├── 📂 ['Ilm ar-Rijaal](Instrumental/Uloom%20al-Hadith/'Ilm%20ar-Rijaal)
+│   │   └── 📂 [Jarh wat-Ta'deel](Instrumental/Uloom%20al-Hadith/Jarh%20wat-Ta'dheel)
+│   │
+│   ├── 🗂️ Uloom al-Qur'aan
+│   │   ├── 📂 [Ahmiyat al-Qur'aan](Instrumental/Uloom%20al-Qur'aan/Ahmiyat%20al-Qur'aan)
+│   │   ├── 📂 [Tajweed](Instrumental/Uloom%20al-Qur'aan/Tajweed)
+│   │   └── 📂 [Specific Topics](Instrumental/Uloom%20al-Qur'aan/Specific%20Topics%20on%20Qur'aan)
+│   │
+│   ├── 🗂️ Uloom as-Seerah
+│   │   ├── 📂 [Shamaail an-Nabi](Instrumental/Uloom%20as-Seerah/Shamaail%20an-Nabi)
+│   │   ├── 📂 [Khasaais an-Nabi](Instrumental/Uloom%20as-Seerah/Khasaais%20an-Nabi)
+│   │   ├── 📂 [Mu'jizaat an-Nabi](Instrumental/Uloom%20as-Seerah/Mu'jizaat%20an-Nabi)
+│   │   ├── 📂 [Seerah al-Ambiya](Instrumental/Uloom%20as-Seerah/Seerah%20al-Ambiya%20war-Rusul)
+│   │   ├── 📂 [Seerah as-Sahaabah](Instrumental/Uloom%20as-Seerah/Seerah%20as-Sahaabah%20was-Sahaabiyyaat)
+│   │   └── 📂 [Taareekh al-Islaam](Instrumental/Uloom%20as-Seerah/Taareekh%20al-Islaamiyyah)
+│   │
+│   └── 🗂️ Uloom at-Tafseer
+│       ├── 📂 [Usool at-Tafseer](Instrumental/Uloom%20at-Tafseer/Usool%20at-Tafseer)
+│       ├── 📂 [Asbaab an-Nuzool](Instrumental/Uloom%20at-Tafseer/Asbaab%20an-Nuzool)
+│       └── 📂 [Specific Topics](Instrumental/Uloom%20at-Tafseer/Specific%20Topics%20on%20Tafseer)
+│
+└── 🗃️ Supplementary Sciences
+    ├── 🗂️ Ta'leem
+    │   ├── 📂 [Talab al-'Ilm](Supplementary/Ta'leem/Talab%20al-'Ilm)
+    │   ├── 📂 [Dhikr & Du'aa](Supplementary/Ta'leem/ad-Dhikr%20wad-Du'aa)
+    │   └── 📂 [Islamic Months](Supplementary/Ta'leem/al-Ash'hoor%20al-Islaamiyyah)
+    │
+    ├── 🗂️ Tarbiyah
+    │   ├── 📂 [Aadaab](Supplementary/Tarbiyah/Aadaab)
+    │   ├── 📂 [Huqooq](Supplementary/Tarbiyah/Huqooq)
+    │   ├── 📂 [Amaal al-Qalb](Supplementary/Tarbiyah/Amaal%20al-Qalb)
+    │   └── 📂 [Mawaa'idh](Supplementary/Tarbiyah/Mawaa'idh)
+    │
+    ├── 🗂️ Tazkiyah
+    │   ├── 📂 [Ruqyah](Supplementary/Tazkiyah/Ruqyah)
+    │   ├── 📂 [Tazkiyah an-Nafs](Supplementary/Tazkiyah/Tazkiyah%20an-Nafs)
+    │   ├── 📂 [Zuhd](Supplementary/Tazkiyah/Zuhd)
+    │   └── 📂 [Tibb](Supplementary/Tazkiyah/Tibb)
+    │
+    ├── 🗂️ Raqaaeq
+    │   ├── 📂 [Dunya](Supplementary/Raqaaeq/Dunya)
+    │   ├── 📂 [Aakhirah](Supplementary/Raqaaeq/Aakhirah)
+    │   ├── 📂 [Zawaajir](Supplementary/Raqaaeq/Zawaajir)
+    │   └── 📂 [az-Zunoob wal-Ma'aasi](Supplementary/Raqaaeq/az-Zunoob%20wal-Ma'aasi)
+    │
+    └── 🗂️ Dawah
+        ├── 📂 [ad-Da'wah wad-Da'yee](Supplementary/Dawah/ad-Da'wah%20wad-Da'yee)
+        ├── 📂 [Manhajiyyah fid-Da'wah](Supplementary/Dawah/Manhajiyyah%20fid-Da'wah)
+        ├── 📂 [Naseehah](Supplementary/Dawah/Naseehah)
+        └── 📂 [Specific Topics](Supplementary/Dawah/Specific%20Topics%20in%20Dawah)

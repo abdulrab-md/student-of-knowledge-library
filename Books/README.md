@@ -8,7 +8,7 @@ A structured digital library for Islamic books, PDFs, audio lessons, and video e
 
 The complete folder hierarchy can be found in:
 
-* [`content-index.md`](Books\content-index.md)
+* [`content-index.md`](content-index.md)
 
 This file serves as the authoritative reference for all categories, sciences, sub-sciences, and folder locations.
 
@@ -18,7 +18,7 @@ This file serves as the authoritative reference for all categories, sciences, su
 
 Every book in this repository must follow the standard book format defined in:
 
-* [`BookTemplate.md`](Books\sample-book-template.md)
+* [`sample-book-template.md`](sample-book-template.md)
 
 The template includes:
 
