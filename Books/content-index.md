@@ -73,6 +73,13 @@ The library is divided into three major categories:
 - [Dhaahiri Qawaa'idh al-Fiqh](Instrumental/Uloom%20al-Fiqh/Qawaa'idh%20al-Fiqh/Dhaahiri%20Qawaa'idh%20al-Fiqh)
 - [Ghayr Madhaahib Qawaa'idh al-Fiqh](Instrumental/Uloom%20al-Fiqh/Qawaa'idh%20al-Fiqh/Ghayr%20Madhaahib%20Qawaa'idh%20al-Fiqh)
 
+### Madhaahib al-Fiqh
+- [Hanafi Madhhabb](Instrumental/Uloom%20al-Fiqh/Madhaahib%20al-Fiqh/Hanafi%20Madhhabb)
+- [Maaliki Madhhabb](Instrumental/Uloom%20al-Fiqh/Madhaahib%20al-Fiqh/Maaliki%20Madhhabb)
+- [Shaafi'i Madhhabb](Instrumental/Uloom%20al-Fiqh/Madhaahib%20al-Fiqh/Shaafi'i%20Madhhabb)
+- [Hanbali Madhhabb](Instrumental/Uloom%20al-Fiqh/Madhaahib%20al-Fiqh/Hanbali%20Madhhabb)
+- [Dhaahiri Madhhabb](Instrumental/Uloom%20al-Fiqh/Madhaahib%20al-Fiqh/Dhaahiri%20Madhhabb)
+
 ## Uloom al-Hadith
 - [Ahmiyat as-Sunnah](Instrumental/Uloom%20al-Hadith/Ahmiyat%20as-Sunnah)
 - [Mustalah al-Hadith](Instrumental/Uloom%20al-Hadith/Mustalah%20al-Hadith)
@@ -92,6 +99,7 @@ The library is divided into three major categories:
 - [Seerah al-Ambiya war-Rusul](Instrumental/Uloom%20as-Seerah/Seerah%20al-Ambiya%20war-Rusul)
 - [Seerah as-Sahaabah was-Sahaabiyyaat](Instrumental/Uloom%20as-Seerah/Seerah%20as-Sahaabah%20was-Sahaabiyyaat)
 - [Seerah at-Taa'bioon wa Atba' at-Taabi'oon](Instrumental/Uloom%20as-Seerah/Seerah%20at-Taa'bioon%20wa%20Atba'%20at-Taabi'oon)
+- [Seerah A'immah al-Muslimeen](Instrumental/Uloom%20as-Seerah/Seerah%20A'immah%20al-Muslimeen)
 - [Taareekh al-Islaamiyyah](Instrumental/Uloom%20as-Seerah/Taareekh%20al-Islaamiyyah)
 - [Specific Topics in Taareekh](Instrumental/Uloom%20as-Seerah/Specific%20Topics%20in%20Taareekh)
 
@@ -127,8 +135,10 @@ The library is divided into three major categories:
 - [Zawaajir](Supplementary/Raqaaeq/Zawaajir)
 - [az-Zunoob wal-Ma'aasi](Supplementary/Raqaaeq/az-Zunoob%20wal-Ma'aasi)
 
-## Dawah
-- [ad-Da'wah wad-Da'yee](Supplementary/Dawah/ad-Da'wah%20wad-Da'yee)
-- [Manhajiyyah fid-Da'wah](Supplementary/Dawah/Manhajiyyah%20fid-Da'wah)
-- [Naseehah](Supplementary/Dawah/Naseehah)
-- [Specific Topics in Dawah](Supplementary/Dawah/Specific%20Topics%20in%20Dawah)
+## Da'wah
+- [ad-Da'wah wad-Da'yee](Supplementary/Da'wah/ad-Da'wah%20wad-Da'yee)
+- [Manhajiyyah fid-Da'wah](Supplementary/Da'wah/Manhajiyyah%20fid-Da'wah)
+- [Naseehah](Supplementary/Da'wah/Naseehah)
+- [Specific Topics in Da'wah](Supplementary/Da'wah/Specific%20Topics%20in%20Da'wah)
+
+---
