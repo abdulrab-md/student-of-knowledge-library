@@ -1,8 +1,10 @@
 # Books content index
 
-This file lists every folder created under `Books/`. Click a link to open the folder in your editor.
+This file lists every folder created under `Library/`. Click a link to open the folder in your editor.
 
-## Objective
+The library is divided into three major categories:
+
+## 1. Objective Sciences
 
 Science | Sub-Science | Folder
 --- | --- | ---
@@ -34,7 +36,7 @@ Tafseer | Waasi' Tafseer | [Objective/Tafseer/Waasi' Tafseer](Objective/Tafseer/
 Tafseer | Specific Topics of Tafseer | [Objective/Tafseer/Specific Topics of Tafseer](Objective/Tafseer/Specific%20Topics%20of%20Tafseer)
 Tafseer | Translations | [Objective/Tafseer/Translations](Objective/Tafseer/Translations)
 
-## Instrumental
+## 2. Instrumental Sciences
 
 Science | Sub-Science | Folder
 --- | --- | ---
@@ -81,7 +83,7 @@ Uloom at-Tafseer | Usool at-Tafseer | [Instrumental/Uloom at-Tafseer/Usool at-Ta
 Uloom at-Tafseer | Asbaab an-Nuzool | [Instrumental/Uloom at-Tafseer/Asbaab an-Nuzool](Instrumental/Uloom%20at-Tafseer/Asbaab%20an-Nuzool)
 Uloom at-Tafseer | Specific Topics on Tafseer | [Instrumental/Uloom at-Tafseer/Specific Topics on Tafseer](Instrumental/Uloom%20at-Tafseer/Specific%20Topics%20on%20Tafseer)
 
-## Supplementary
+## 3. Supplementary Sciences
 
 Science | Sub-Science | Folder
 --- | --- | ---
